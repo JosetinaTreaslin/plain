@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: agnetpool
+  name: agentpool
 
 steps:
 - task: Maven@3
